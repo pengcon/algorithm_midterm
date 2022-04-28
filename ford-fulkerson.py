@@ -71,4 +71,3 @@ while True:
 
 print("최대 유량은 " + str(answer) + " 입니다")
 
-print("time :", time.time() - start)
