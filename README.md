@@ -79,6 +79,7 @@
 ---
 ## 에드몬드 카프 알고리즘 코드 실행
 - 코드는 [해당 링크에 있다.](https://github.com/pengcon/algorithm_midterm/blob/main/edmonds-karp.py)
+
 ![print2](img/print2.png)
 - 다른 예시들로 충분한 검증을 거친 코드이다.
 - 방식은 포드 풀커슨과 같아서 값들도 똑같이 나온다.
